@@ -1,0 +1,22 @@
+{
+  "student": [
+    [
+      {
+        "name": "ram",
+        "roll": 22,
+        "cgpa": 7
+      },
+      {
+        "name": "seetha",
+        "roll": 98,
+        "cgpa": 7
+      },
+      {
+        "name": "ty",
+        "roll": 57,
+        "cgpa": 6
+      }
+    ],
+    4
+  ]
+}
